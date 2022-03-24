@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ajeetkumarv
 - 👀 I’m interested in Java echosystem
-- 🌱 I’m currently learning Java, SQL, Spring based technologies
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ajeetkumar-vishwakarma/
 
 <!---
